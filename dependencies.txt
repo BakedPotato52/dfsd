@@ -1,2 +1,2 @@
 python -m spacy download en_core_web_sm 
-pip install spacy gtts SpeechRecognition opencv-python PyQt5
+pip install spacy gtts SpeechRecognition opencv-python PyQt5 pyaudio
